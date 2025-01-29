@@ -1,4 +1,5 @@
 #!/bin/bash
+rm _posts/*
 python3 update_blog.py
 bundle exec jekyll build
 git add .
