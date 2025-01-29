@@ -3,5 +3,7 @@ rm _posts/*
 python3 update_blog.py
 bundle exec jekyll build
 git add .
-git commit -m "new version"
+echo "Enter Commit Message: "
+read commitmsg
+git commit -m "$commitmsg"
 git push origin HEAD
