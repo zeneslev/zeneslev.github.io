@@ -24,3 +24,4 @@ Feel free to connect with me!
 
 - 📧 Email: mattkrolick@gmail.com
 - 📷 Instagram: [@zeneslev](https://instagram.com/zeneslev)
+- LinkedIn: [Matt Krolick](https://www.linkedin.com/in/matt-krolick-84192035/)
