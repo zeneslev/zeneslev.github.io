@@ -4,12 +4,23 @@ title: "About Me"
 permalink: /about/
 ---
 
-## 👋 Welcome to My Blog!
+## 👋 Welcome
 
-I’m [Your Name], an electrical engineer and a passionate blogger. I love writing about self-improvement, technology, and creative work-life balance.
+My name is Matt and this is where I store my ramblings and professional projects. This blog serves as my whole digital presence. I find that traditional social media tends to isolate parts of self.
+
+My interests are as follows:
+- Investigating the nature of Self and Reality
+- Plant Medicine
+- Meditation
+- Breathwork
+- Electrical Engineering
+- Robotics
+- Aviation
+- Improvisational and Ecstatic Dance
+- Powerlifting
+- Men's work
 
 Feel free to connect with me!
 
-- 📧 Email: your@email.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📷 Instagram: [@yourhandle](https://instagram.com/yourhandle)
+- 📧 Email: mattkrolick@gmail.com
+- 📷 Instagram: [@zeneslev](https://instagram.com/zeneslev)
