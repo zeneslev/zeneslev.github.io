@@ -6,7 +6,7 @@ permalink: /about/
 
 ## 👋 Welcome
 
-My name is Matt and this is where I store my ramblings and professional projects. This blog serves as my whole digital presence. I find that traditional social media tends to isolate parts of self.
+My name is Matt and this is where I store my ramblings and professional projects. This blog serves as my whole digital presence. I find that traditional social media tends to isolate parts of self. In addition we lose our sense of wholeness while our shadow (those unconscious parts of ourselves that fear and repress) grows.
 
 My interests are as follows:
 - Investigating the nature of Self and Reality
