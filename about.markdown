@@ -8,15 +8,14 @@ permalink: /about/
 
 My name is Matt and this is where I store my ramblings and professional projects. This blog serves as my whole digital presence. I find that traditional social media tends to isolate parts of ourselves resulting in a loss of individual wholeness.
 My interests are as follows:
-- Investigating the nature of Self and Reality
-- Plant Medicine
-- Meditation
-- Breathwork
 - Electrical Engineering
 - Robotics
 - Aviation
 - Improvisational and Ecstatic Dance
 - Powerlifting
+- The Nature of Self and Reality
+- Plant Medicine
+- Meditation and Breathwork
 - Men's work
 
 Feel free to connect with me!

@@ -36,7 +36,7 @@ plugins:
   - jekyll-include-cache
 
 # Masthead Image
-logo: "/assets/images/88.png"
+logo: "/assets/images/avatar.png"
 
 search: true
 
@@ -45,7 +45,7 @@ search: true
 #sidebar thing
 author:
   name     : "Matt Krolick"
-  avatar   : "/assets/images/88.png"
+  avatar   : "/assets/images/avatar.png"
   bio      : "My awesome biography constrained to a sentence or two goes here."
   location : "Boston, USA"
 
