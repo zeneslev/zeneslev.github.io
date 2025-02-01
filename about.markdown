@@ -8,11 +8,8 @@ permalink: /about/
 
 ---
 ## 👋 Welcome
-
   
 My name is Matt and this is where I store my ramblings and professional projects. This blog serves as my whole digital presence. I find that traditional social media tends to isolate parts of ourselves resulting in a loss of individual wholeness.
-
-![blah](/assets/images/Pasted image 20241114123818.png)
 
 My interests are as follows:
 
@@ -25,7 +22,7 @@ My interests are as follows:
 - Plant Medicine
 - Meditation and Breathwork
 - Men's work
-- 
+
 Feel free to connect with me!
 
 - 📧 Email: [mattkrolick@gmail.com](mailto:mattkrolick@gmail.com)
