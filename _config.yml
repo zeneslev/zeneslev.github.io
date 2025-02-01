@@ -45,7 +45,7 @@ search: true
 #sidebar thing
 author:
   name     : "Matt Krolick"
-  avatar   : "/assets/images/avatar/avatar.png"
+  avatar   : ""
   bio      : "My awesome biography constrained to a sentence or two goes here."
   location : "Boston, USA"
 

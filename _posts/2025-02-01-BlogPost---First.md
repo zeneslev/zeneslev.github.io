@@ -80,4 +80,5 @@ To quote some self-realized beings:
 > “The Kingdom of Heaven is within you.” – Jesus
 
 
-![blah](/assets/images/20250201_181117(0) 1.jpg)
+
+![blah](/assets/images/20250201_181706.jpg)
