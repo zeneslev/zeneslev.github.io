@@ -1,10 +1,11 @@
 ---
 layout: single
-title: Who are you?
+title: Who Are You? A Nondual Perspective
 date: 2025-02-01
 categories:
   - self
   - plant-medicine
+  - consciousness
 tags:
   - blogpost
 ---
@@ -28,7 +29,7 @@ A rogue thought pops into existence "don't forget to breathe!". Back in duality 
 1 hour later I am eating dinner with my facilitators. Back to normal now, but I feel completely free. I am still in awe.
 
 # Nonduality
-Nonduality is the knowing that there are not two separate things, a self and the world. You are one with everything and everyone. This oneness has the qualities of bliss, love, peace, freedom. You are not a separate self district from the world. That felt separateness is an illusion. The experience I mention above with 5-meo-DMT (the active component in the secretions of the Bufo Alvarius Toad) was my first glimpse at what nonduality can "feel like" although in a very rapid and somewhat forced way. Both certain forms of meditation and psychedelics can induce this type of experience. 
+Nonduality is the knowing that there are not two separate things, a self and the world. You are one with everything and everyone. This oneness has the qualities of bliss, love, peace, freedom. You are not a separate self district from the world. That felt separateness is an illusion. The experience I mention above with 5-meo-DMT (the active component in the secretions of the Bufo Alvarius Toad) was my first glimpse at what nonduality (self-realization) can "feel like" although in a very rapid and somewhat forced way. Both certain forms of meditation and psychedelics can induce this type of experience. 
 
 The fascinating thing is that when the "knowledge" of myself goes away, there is still something here, something familiar. Even perhaps more familiar than what I used to call "myself". What's really falling away is the ego: our personal identity, the inner narrator, the system that keeps track of who I am by associating a made up concept "me" with identities that are made up "engineer", "musician", "sad", "angry", "American". If I lose my job, do "I" change? What is the "me-ness" underneath these identifications. Even the identification with the body and mind seem to be illusory when investigated closely. 
 
@@ -55,4 +56,24 @@ In IFS, the Self is not a part. It's a presence that has qualities of Calmness, 
 
 IFS is just one tool among several for working with our samskaras (a term from Yogic philosophy meaning our mental conditioning left behind by a past event). Others include Svadhyaya which is a self-observation practice of noticing and questioning why thoughts emotions and reactions happen. It is said that when all samskaras dissolve, what remains is pure awareness.
 
-# My Model of Self
+# Model of Self
+So who are you?
+
+I think of the Self as an iceberg most of which is under water (excuse my artistic impression of what an iceberg looks like) The portion of self that is above water is what exists in conscious space. What we are aware of. Below the water live our samskaras, or "parts". These are parts of our Self, perhaps a packet of consciousness that had to split off of our Self to serve a purpose. Even though these are drawn in red, note that these aren't all troublesome. If you investigate your thoughts you'll find that they just pop into conscious space. It's our parts that are generating most of these thoughts. I believe that certain thoughts do come from a deeper place (creative impulses and intuition for example). 
+
+![blah](/assets/images/signal-2024-04-17-13-09-58-004-1.jpg)
+
+The water level can be lowered with spiritual practice or psychedelics, exposing more of our Self and more of our parts into conscious space. My experience with 5-meo-DMT was like a brief tsunami, one moment of no water, leaving full access to Self. This is what I mean by a glimpse of self realization.
+
+# How Deep Does Being Go?
+A final question, a deeply philosophical and almost religious one is, how deep does the Self go? The following is of course my complete speculation with no evidence but my own experiences and the writings of nondual spiritual teachers around the globe. In nonduality, everything is connected. There is only one being. And in our quest to answer the question "who am I?" we find that we are literally part of something greater. 
+
+To quote some self-realized beings: 
+>“You are not a drop in the ocean. You are the entire ocean in a drop.” – Rumi
+> “No one and nothing outside yourself can give you enlightenment.” – The Buddha
+> “There is no seeker, no search, and no separate self. Just this.” – Ramana Maharshi
+> “God is not found in the soul by adding anything but by a process of subtraction.” – Meister Eckhart
+> “The Kingdom of Heaven is within you.” – Jesus
+
+
+![blah](/assets/images/20250201_175231.jpg)
