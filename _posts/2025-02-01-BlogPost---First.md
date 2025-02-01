@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Who Are You? A Nondual Perspective
+title: Who Are You? Nonduality, Healing, and Being
 date: 2025-02-01
 categories:
   - self
@@ -70,10 +70,14 @@ A final question, a deeply philosophical and almost religious one is, how deep d
 
 To quote some self-realized beings: 
 >“You are not a drop in the ocean. You are the entire ocean in a drop.” – Rumi
+>
 > “No one and nothing outside yourself can give you enlightenment.” – The Buddha
+> 
 > “There is no seeker, no search, and no separate self. Just this.” – Ramana Maharshi
+> 
 > “God is not found in the soul by adding anything but by a process of subtraction.” – Meister Eckhart
+> 
 > “The Kingdom of Heaven is within you.” – Jesus
 
 
-![blah](/assets/images/20250201_175231.jpg)
+![blah](/assets/images/20250201_181117(0) 1.jpg)
