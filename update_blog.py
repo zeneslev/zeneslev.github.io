@@ -4,7 +4,8 @@ import re
 from datetime import datetime
 
 # Define paths
-obsidian_blog_path = "//mnt/c/Users/matt/Documents/Stratotanker/BlogPosts/"
+obsidian_blogpost_path = "//mnt/c/Users/matt/Documents/Stratotanker/Blog/BlogPosts"
+obsidian_blogabout_path = "//mnt/c/Users/matt/Documents/Stratotanker/Blog/BlogAbout.md"
 obsidian_media_path = "//mnt/c/Users/matt/Documents/Stratotanker/media"
 jekyll_posts_path = "_posts"
 jekyll_images_path = "assets/images"
@@ -26,14 +27,32 @@ def process_markdown(file_path, output_path):
 
     return image_references
 
+# Copy about file
+if os.path.exists(obsidian_blogabout_path):
+    destination_path = "about.markdown"
+    # Process the markdown file and get the image references
+    referenced_images = process_markdown(obsidian_blogabout_path, destination_path)
+
+    # Copy referenced images to Jekyll `assets/images`
+    for image_name in referenced_images:
+        source_image_path = os.path.join(obsidian_media_path, image_name)
+        destination_image_path = os.path.join(jekyll_images_path, image_name)
+
+        if os.path.exists(source_image_path):
+            shutil.copy(source_image_path, destination_image_path)
+            print(f"Copied image: {image_name}")
+        else:
+            print(f"Image not found: {image_name}")
+
+
 # Copy markdown files and process images
-for filename in os.listdir(obsidian_blog_path):
+for filename in os.listdir(obsidian_blogpost_path):
     if filename.endswith(".md"):
         # Generate a Jekyll-friendly filename: YYYY-MM-DD-title.md
         title = filename.replace(" ", "-").replace(".md", "")
         today = datetime.today().strftime('%Y-%m-%d')
         new_filename = f"{today}-{title}.md"
-        source_path = os.path.join(obsidian_blog_path, filename)
+        source_path = os.path.join(obsidian_blogpost_path, filename)
         destination_path = os.path.join(jekyll_posts_path, new_filename)
 
         # Process the markdown file and get the image references
