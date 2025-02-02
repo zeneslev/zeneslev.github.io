@@ -66,9 +66,8 @@ I think of the Self as an iceberg most of which is under water (excuse my artist
 The water level can be lowered with spiritual practice or psychedelics, exposing more of our Self and more of our parts into conscious space. My experience with 5-meo-DMT was like a brief tsunami, one moment of no water, leaving full access to Self. This is what I mean by a glimpse of self realization.
 
 # How Deep Does Being Go?
-A final question, a deeply philosophical and almost religious one is, how deep does the Self go? The following is of course my complete speculation with no evidence but my own experiences and the writings of nondual spiritual teachers around the globe. In nonduality, everything is connected. There is only one being. And in our quest to answer the question "who am I?" we find that we are literally part of something greater. 
+A final question, a deeply philosophical and almost religious one is, how deep does the Self go? In nonduality, everything is connected. There is only one being, no separateness. To quote some self-realized beings: 
 
-To quote some self-realized beings: 
 >“You are not a drop in the ocean. You are the entire ocean in a drop.” – Rumi
 >
 > “No one and nothing outside yourself can give you enlightenment.” – The Buddha
@@ -79,6 +78,6 @@ To quote some self-realized beings:
 > 
 > “The Kingdom of Heaven is within you.” – Jesus
 
-
+Perhaps at the core of our selves there really is something greater and boundless.
 
 ![blah](/assets/images/20250201_181706.jpg)
