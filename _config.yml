@@ -39,7 +39,7 @@ plugins:
   - jekyll-include-cache
 
 # Masthead Image
-logo: "/assets/images/avatar/200.png"
+#logo: "/assets/images/avatar/200.png"
 
 search: true
 
