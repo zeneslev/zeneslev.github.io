@@ -26,7 +26,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-og_image: /assets/images/bladesate.png
+
+#for pages that don't have a header.image, this will be used as the Open Graph default image
+og_image: "/assets/images/bladesate.png"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
