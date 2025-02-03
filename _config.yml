@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 #for pages that don't have a header.image, this will be used as the Open Graph default image
-og_image: "/assets/images/bladesate.png"
+og_image: "https://mattkrolick.com/assets/images/bladesate.png"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
