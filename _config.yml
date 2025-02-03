@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+og_image: /assets/images/bladesate.png
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
@@ -36,7 +37,7 @@ plugins:
   - jekyll-include-cache
 
 # Masthead Image
-#logo: "/assets/images/avatar/200.png"
+logo: "/assets/images/avatar/200.png"
 
 search: true
 
@@ -68,7 +69,6 @@ defaults:
       path: ""
       type: posts
     values:
-      image: "/assets/images/bladesate.png"  # Change this to your preferred image
       show_date: true
       comments: false
 
