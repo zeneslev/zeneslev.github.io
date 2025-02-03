@@ -68,6 +68,7 @@ defaults:
       path: ""
       type: posts
     values:
+      image: "/assets/images/bladesate.png"  # Change this to your preferred image
       show_date: true
       comments: false
 
