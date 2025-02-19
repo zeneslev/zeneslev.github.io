@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Love and the Universe
 date: 2025-02-10
 categories:
