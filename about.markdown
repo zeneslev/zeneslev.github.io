@@ -19,7 +19,7 @@ My interests are as follows:
 - Improvisational and Ecstatic Dance
 - Powerlifting
 - Mysticism and Shamanism
-- The intersection of Science and Spirituality
+- The Intersection of Science and Spirituality
 - Meditation and Breathwork
 - Men's work
 
