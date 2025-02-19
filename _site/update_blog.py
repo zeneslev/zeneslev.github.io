@@ -4,9 +4,9 @@ import re
 from datetime import datetime
 
 # Define paths
-obsidian_blogpost_path = "//mnt/c/Users/matt/Documents/Stratotanker/Blog/BlogPosts"
-obsidian_blogabout_path = "//mnt/c/Users/matt/Documents/Stratotanker/Blog/BlogAbout.md"
-obsidian_media_path = "//mnt/c/Users/matt/Documents/Stratotanker/media"
+obsidian_blogpost_path = "/mnt/GoogleDrive/Obsidian/Stratotanker/Blog/BlogPosts"
+obsidian_blogabout_path = "/mnt/GoogleDrive/Obsidian/Stratotanker/Blog/BlogAbout.md"
+obsidian_media_path = "/mnt/GoogleDrive/Obsidian/Stratotanker/media"
 jekyll_posts_path = "_posts"
 jekyll_images_path = "assets/images"
 

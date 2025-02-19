@@ -18,8 +18,8 @@ My interests are as follows:
 - Aviation
 - Improvisational and Ecstatic Dance
 - Powerlifting
-- The Nature of Self and Reality
-- Plant Medicine
+- Mysticism and Shamanism
+- The intersection of Science and Spirituality
 - Meditation and Breathwork
 - Men's work
 
