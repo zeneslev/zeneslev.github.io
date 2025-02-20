@@ -22,6 +22,7 @@ My interests are as follows:
 - The Intersection of Science and Spirituality
 - Meditation and Breathwork
 - Men's work
+- TESTING SOFTWARE
 
 Feel free to connect with me!
 
